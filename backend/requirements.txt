@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-jose[cryptography]
+python-dotenv
+requests
+openai
+openfga-sdk
+faiss-cpu
+sentence-transformers
+pydantic
+pydantic-settings
